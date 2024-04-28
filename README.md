@@ -1,22 +1,33 @@
-<h1 align="center">Hi 👋, I'm Atilla Özdemir</h1>
-<h3 align="center">(An enthusiastic IT guy)</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+# Watch and organise the pulse of your study with the PWA: StudyPulse
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atillaoezdemir&label=Profile%20views&color=0e75b6&style=flat" alt="atillaoezdemir" /> </p>
+StudyPulse is a Progressive Web App (PWA) designed to empower university students to take control of their time management, organization, and planning needs.
 
-- 🔭 I’m currently working on **StudyPulse**
+Key Features:
 
-- 🌱 I’m currently learning **Operating System and Fundamentals of Distributed Systems**
+- Streamlined Time Management: Effortlessly manage your schedule, tasks, and deadlines.
+- Enhanced Organization: Stay on top of your workload with intuitive features for prioritizing and tracking progress.
+- Simplified Planning: Chart a clear course for academic success with user-friendly planning tools.
+- Accessible Design: Enjoy a beautiful and intuitive interface that's as pleasing to the eye as it is functional.
 
-- 💬 Ask me about **Java, Fitness and Coffee**
+## Getting Started
 
-- 📫 How to reach me **atillaeozdemir132@gmail.com**
+Prerequisites:
 
-- ⚡ An unpopular opinion **Coding with AI will soon be more fun!**
+- Ensure you have Rust installed on your system. Download instructions can be found here: https://rustup.rs/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+To start using our PWA, follow these simple steps:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atillaoezdemir&show_icons=true&locale=en" alt="atillaoezdemir" /></p>
+1. Install Rust: [https://rustup.rs/](https://rustup.rs/) (Download instructions)
+2. **Add Rust Modules:** Ensure that Rust modules are added to the project. These modules are essential for the proper functioning of the application.
+3. **Run the Backup Server:** Before launching the app, make sure to run the backup server. This step is crucial for data protection and integrity.
+4. **Launch the Application:** Open the HTML file in your preferred web browser to access the PWA. Once launched, you can start exploring its features and functionalities.
+5. **Optional: Download PWA:**  If you prefer a dedicated desktop or mobile experience, you can download the PWA for easier access and offline usage. Simply follow the download instructions provided within the application.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atillaoezdemir&" alt="atillaoezdemir" /></p>
+## Current Status
+
+This PWA was developed on a tight deadline, and while it's fully functional for regular use, some minor errors or limitations might arise in extreme situations.
+
+
+https://github.com/atillaoezdemir/atillaoezdemir/assets/164641796/4d9ff4fe-8e95-4cb8-b75e-95b3256fabc2
+
+
